@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chunkwatcher",
+  "name": "ChunkWatcher",
+  "description": "Enables server-owners to disable force-chunkloading for certain mods, and find which mods are force-chunkloading.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Terminator_NL"],
+  "credits": "The Minecraft and FML team.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
